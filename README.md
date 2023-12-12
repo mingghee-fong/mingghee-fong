@@ -12,7 +12,7 @@
   
 - 📫 Reach me at: **mingghee@hotmail.com**
 
-- 🔷 Connect with me on [LinkedIn](https://www.linkedin.com/in/ming-ghee-fong-3aa750213/)
+- 🔷 Connect with me on [LinkedIn](https://www.linkedin.com/in/mingghee-fong/)
 
 ---
 
