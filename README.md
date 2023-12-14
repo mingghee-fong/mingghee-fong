@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **C#, .Net, Unity**
 
-- 💾 This is my portfolio link: **In progress**
+- 💾 This is my portfolio link: [Portfolio](https://mingghee-fong.github.io/portfolio.html)
   
 - 📫 Reach me at: **mingghee@hotmail.com**
 
